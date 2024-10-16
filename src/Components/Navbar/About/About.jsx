@@ -19,7 +19,9 @@ const About = () => {
                    caregivers will have easy access to what they need,
                  significantly reducing the initial confusion and stress they face.
             </p>
-                 <p>This app is designed to provide comprehensive support for individuals with intellectual disabilities, beginning with Down Syndrome. We recognize the challenge caregivers face when confronted with such conditions: they often don't know where to start. Our app solves this problem by offering all the necessary information, tools, and resources in one place, guiding caregivers through the process of providing the best care.
+                 <p>This app is designed to provide comprehensive support for individuals with intellectual disabilities, 
+                    beginning with Down Syndrome. We recognize the challenge caregivers face when confronted with such conditions: they often do not know where to start. Our app solves this problem by offering all the necessary information, tools, and resources in one place,
+                     guiding caregivers through the process of providing the best care.
                     Importantly, the app is not only for children with disabilities but for individuals of all ages,
                     making it a lifelong resource for caregivers. Initially,
                     we are starting with Down Syndrome due to time limitations,
